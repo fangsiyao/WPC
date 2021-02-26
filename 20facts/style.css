@@ -1,0 +1,69 @@
+body{
+    font-family: 'Akaya Telivigala', cursive;
+    background-image:url(images/blockbackground.jpeg);
+    text-align: center;
+}
+#content{
+    margin:10%;
+    flex:1;
+    height:100%;
+}
+
+.row1-3{
+    display:flex;
+    flex-direction:row;
+}
+.col1{margin:1% 0% 0% 1%;display;flex;flex-direction:column;height:200px;}
+.block1{height:190px;background-image:url(images/background.jpeg);font-size:500%;}
+.col2-3{
+    display:flex;
+    flex-direction:column;
+    font-size:200%
+}
+.block2-3{margin:1% 0% 0% 1%;height:65px; background-image:url(images/background.jpeg);height:100px;}
+.row4{display:flex;
+    flex-direction:row;
+    margin:1% 0% 0% 1%
+}
+.block4{height:50px; flex-direction:row; background-image:url(images/background.jpeg);font-size:150%;}
+.row5-8{
+    margin:1% 0% 0% 1%;
+    display:flex;
+    flex-direction:row;
+}
+.block5-8{margin:0% 1% 1% 0%;background-image:url(images/background.jpeg);}
+.row9-11{
+    display:flex;
+    flex-direction:row;
+    margin:1% 0% 0% 1%;
+}
+.block10{width:750px;margin:1% 1% 1% 1%;background-image:url(images/background.jpeg);}
+.row12-14{
+    display:flex;
+    flex-direction:row;
+}
+.row15-17{
+    display:flex;
+    flex-direction:row;
+    font-size:200%;
+}
+.block12-17{margin:1% 0% 0% 1%;background-image:url(images/background.jpeg);}
+.col18-22{
+    display:flex;
+    flex-direction:row;
+}
+.row18{
+    display:flex;
+    flex-direction:column;
+}
+.block18{height:150px;margin:1% 0% 0% 1%;background-image:url(images/background.jpeg);}
+.row19-20{
+    display:flex;
+    flex-direction:column;
+}
+.row21-22{
+    display:flex;
+    flex-direction:column;
+}
+.block19-22{margin:1% 0% 0% 1%;background-image:url(images/background.jpeg);}
+.callout{font-size:50%}
