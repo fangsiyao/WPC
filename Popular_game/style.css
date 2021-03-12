@@ -1,0 +1,13 @@
+body{background-color:#512DA8;}
+.title{margin-left:20%;margin-right:20%;text-align:center;margin-top:5%;}
+.content{margin-left:20%;margin-right:20%;text-align:center;}
+h1{font-family: 'Orbitron', sans-serif;font-size:300%;color:#FF4081;}
+h2{font-family: 'Rokkitt', serif;font-size:150%;color:#D1C4E9;}
+h3{font-family: 'Orbitron', sans-serif;color:#212121;}
+h4{font-family: 'Orbitron', sans-serif;color:#FFFFFF;font-size:200%;}
+.navigation{line-height:38px;background-color:#000000;opacity:0.5;width:250px;margin-left:0;text-decoration:none;margin-top:0%;list-style-type: none;float:left;border-radius:20px;}
+.airtable{margin-left:20%;margin-right:20%;}
+nav{list-style-type: none;float:left;}
+a{text-decoration:none;color:#D1C4E9}
+.callout{text-align:center;}
+.navtext{margin-left:5px;}
