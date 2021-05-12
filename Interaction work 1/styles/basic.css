@@ -1,0 +1,35 @@
+* {padding: 0; margin: 0;}
+body {font-size:90%;font-family:'Roboto Mono', monospace;color: #000000; background-color:#9B90C2;margin: 0em 20%;max-width: 80em;}
+body * { font-size: 1em;}
+h1 {font-family:  'Roboto Mono', monospace;font:5em normal;}
+h2 {font-family: 'Roboto Mono', monospace;font: 3em normal;margin-top: 1em;}
+
+#header {color: #9B90C2;background-color: #9B90C2;border-color: #9B90C2;height:300px;background-image: url(../images/headerpic.jpeg);background-repeat: no-repeat;background-position:center;border-width: 0em;border-style: solid;border-bottom-width: 0;}
+#photos #header {background-image: url(../images/headerpic.jpeg);}
+
+#navigation {color: #000000;background-color: #000000;font-family:'Roboto Mono', monospace;background-color:#000000;font-size:1.6em;border-color: #000000;border-width: 0em; border-style: solid; border-bottom-width: 0;border-top-width: 0;padding-left: 30%;}
+#navigation ul {border-color: #000000;width: 100%;overflow: hidden;}
+#navigation li {display: inline;}
+#navigation li a {display: block;float: left;padding: .5em 2em;}
+#navigation a {text-decoration:blink; font-weight: bold;}
+
+
+#content {color: #72636E;background-color: #000000;border-color: #000000;height:500px; line-height: 1.8em; border-width: 0em;border-style: solid;border-top-width: 0;padding: 2em 10%;line-height: 1.8em;}
+#content div {padding: 20px;line-height: 1.8em;}
+#content img {border-width: .1em;border-style: solid;outline-width: .1em;outline-style: solid;}
+#content p {font-size:1.2em;line-height: 160%;margin: 1em 0;}
+#content h1 {font:2.4em;line-height: 240%;font-family: 'Roboto Mono', monospace;}
+#content h2 {font:1.2em;line-height: 180%;font-family: 'Roboto Mono', monospace;}
+#content li {font-size:1.2em;padding:1em;list-style:none;float:left;}
+#content li a {padding:1px;font-size:1em;}
+#content img {border-color: #000000;outline-color: #000000;}
+#intro img{float:left;margin-right:55px;}
+
+#imagegallery {padding-left:70px;}
+#imagegallery a {background-color: transparent;}
+#imagegallery li {list-style-type: none;display: inline;}
+#imagegallery img {padding:18px;}
+
+a {font-weight: bold;text-decoration:blink;}
+a:link {color: #9B90C2; background-color: #000000;}
+a:visited {color: #3C2F41; background-color: #000000;}
