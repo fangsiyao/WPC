@@ -1,0 +1,28 @@
+body{
+	text-align:center;
+	background-image:url(img/back.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+h1{
+	font-size:90px;
+	line-height:90px;
+	font-family: 'Satisfy', cursive;
+}
+
+h2{
+	color:grey;
+	line-height:40px;
+}
+
+h3{
+	font-size:40px;
+	line-height:50px;
+	font-family: 'Satisfy', cursive;
+}
+h4{
+	font-size:15px;
+	margin-top:-10px;
+	font-family: 'Nanum Myeongjo', serif;
+}
